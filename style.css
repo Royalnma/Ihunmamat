@@ -1,0 +1,690 @@
+.first-logo {
+    width: 10%;
+    padding-top: 10px;
+}
+
+.search {
+    border-style: solid;
+    border-radius: 10px;
+    border-color: grey;
+    width: 300px;
+    height: 40px;
+    padding-top: 5px;
+}
+
+.bit {
+    background-color: white;
+    color: black;
+    border-style: none;
+}
+
+.tet {
+    width: 130px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    border-color: whitesmoke;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-right: 2px;
+    padding-bottom: 2px;
+    font-size: 12px;
+}
+
+.but {
+    background-color: blue;
+    color: white;
+    font-size: 10px;
+    border: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: blue;
+    width: 50px;
+    height: 20px;
+}
+
+.first-header {
+    border: 2px;
+    border-style: solid;
+    border-radius: 3px;
+    border-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.pad {
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+    padding-top: 12px;
+    width: 100px;
+}
+.abt {
+    font-size: 10px;
+    font-weight: lighter;
+    margin-top: 2px;
+}
+
+.nav-bar {
+    border: 2px;
+    border-style: solid;
+    border-radius: 3px;
+    border-color: white;
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+}
+.ti {
+    padding-top: 10px;
+ }
+ 
+ .second-nav {
+    border: 2px;
+    border-style: solid;
+    border-radius: 3px;
+    border-color: white;
+    height: 30px;
+ }
+ .pic {
+    width: 10%;
+ }
+ 
+ .bat {
+    border: 2px;
+    border-style: solid;
+    border-color: grey;
+    border-radius: 10px;
+    font-size: 8px;
+    width: 40px;
+    height: 20px;
+ }
+ .lit {
+    font-size: 12px;
+ }
+ .let {
+    font-size: 6px;
+ }
+ 
+ .bats {
+    border: 2px;
+    border-style: solid;
+    border-color: grey;
+    border-radius: 10px;
+    font-size: 8px;
+    width: 60px;
+    height: 20px;
+ }
+ 
+ .third-nav {
+    border: 2px;
+    border-style: solid;
+    border-radius: 3px;
+    border-color: white;
+    display: flex;
+    justify-content: space-between;
+ }
+ 
+ .bet {
+    padding-top: 25px;
+ }
+ 
+ .body {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-row-gap: 2px;
+    grid-column-gap: 2px;
+ }
+ .grid-1 {
+    border: 2px;
+    border-style: solid;
+    border-radius: 2px;
+    border-color: whitesmoke;
+ }
+ 
+ .grid-2 {
+    border: 2px;
+    border-style: solid;
+    border-radius: 2px;
+    border-color: whitesmoke;
+ }
+ 
+ .ron {
+    width: 18%;
+    border-radius: 5px;
+ }
+ 
+ .tit {
+    border: 2px;
+    border-style: solid;
+    border-radius: 2px;
+    border-color: white;
+    margin-left: 10px;
+    margin-top: 5px;
+ }
+ .top {
+    font-family: Arial, sans-serif;
+ }
+ .tip {
+    font-weight: lighter;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ .grid-3 {
+    border: 2px;
+    border-style: solid;
+    border-radius: 2px;
+    border-color: white;
+ }
+ .grid-4 {
+    border: 2px;
+    border-style: solid;
+    border-radius: 2px;
+    border-color: white;
+ }
+ .next {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-row-gap: 1px;
+    grid-column-gap: 1px;
+ }
+ .fit {
+    width: 80%;
+ }
+ .go {
+    width: 80%;
+ }
+ .git {
+    font-size: 10px;
+ }
+ .got {
+    display: flex;
+    justify-content: space-between;
+ }
+ .get {
+    font-size: 8px;
+    font-weight: lighter;
+ }
+ .nit {
+    width: 50%;
+ }
+ .cit {
+    font-weight: bold;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ .cat {
+    font-weight: bold;
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ .cet {
+    font-weight: lighter;
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ .cut {
+    font-weight: lighter;
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ .cot {
+    border: 2px;
+    border-style: solid;
+    border-color: grey;
+    border-radius: 10px;
+    width: 150px;
+    height: 40px;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ .pet {
+    background-color: white;
+    border: 2px;
+    border-style: solid;
+    border-color: grey;
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+    font-size: 6px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ .pat {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 6px;
+    font-weight: lighter;
+    padding-top: 15px;
+ }
+ .pot {
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+    display: flex;
+    justify-content: space-around;
+ }
+ .tut {
+    font-weight: lighter;
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ .brit {
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+    margin-top: 5px;
+ }
+ .put {
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+    display: flex;
+    justify-content: space-between;
+ }
+ 
+ @media only screen and (min-width: 768px) {
+    .first-logo {
+       width: 15%;
+       padding-top: 10px;
+    }
+    .search {
+        border-style: solid;
+        border-radius: 15px;
+        border-color: grey;
+        width: 500px;
+        height: 40px;
+        padding-top: 5px;
+        margin-top: 10px;
+    }
+    
+    .bit {
+        background-color: white;
+        color: black;
+        border-style: none;
+    }
+    
+    .tet {
+        width: 300px;
+        border-style: solid;
+        border-width: 2px;
+        border-radius: 5px;
+        border-color: white;
+        padding-left: 20px;
+        padding-top: 10px;
+        padding-right: 2px;
+        padding-bottom: 2px;
+        font-size: 17px;
+    }
+    .but {
+        background-color: blue;
+        color: white;
+        font-size: 15px;
+        border: 2px;
+        border-style: solid;
+        border-radius: 5px;
+        border-color: blue;
+        width: 120px;
+        height: 50px;
+    }
+    
+    .first-header {
+        border: 2px;
+        border-style: solid;
+        border-radius: 3px;
+        border-color: white;
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .pad {
+        border: 2px;
+        border-style: solid;
+        border-color: white;
+        padding-top: 12px;
+        width: 200px;
+        margin-left: 40px;
+    }
+    .abt {
+        font-size: 15px;
+        font-weight: lighter;
+        margin-top: 2px;
+    }
+    
+    .nav-bar {
+        border: 2px;
+        border-style: solid;
+        border-radius: 3px;
+        border-color: white;
+        display: flex;
+        justify-content: space-between;
+        height: 40px;
+    }
+    .ti {
+        padding-top: 10px;
+     }
+     
+     .second-nav {
+        border: 2px;
+        border-style: solid;
+        border-radius: 3px;
+        border-color: white;
+        height: 30px;
+     }
+     .pic {
+        width: 15%;
+     }
+     
+     .bat {
+        border: 2px;
+        border-style: solid;
+        border-color: grey;
+        border-radius: 10px;
+        font-size: 12px;
+        width: 50px;
+        height: 30px;
+     }
+     .lit {
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+     }
+     .let {
+        font-size: 14px;
+     }
+     
+     .bats {
+        border: 2px;
+        border-style: solid;
+        border-color: grey;
+        border-radius: 10px;
+        font-size: 12px;
+        width: 75px;
+        height: 30px;
+     }
+     
+     .bet {
+        padding-top: 25px;
+        margin-right: 80px;
+     }
+     .rit {
+        margin-right: 70px;
+     }
+     
+     .ron {
+        width: 18%;
+        border-radius: 5px;
+     }
+     
+     .tit {
+        border: 2px;
+        border-style: solid;
+        border-radius: 2px;
+        border-color: white;
+        margin-left: 10px;
+        margin-top: 5px;
+     }
+     .tip {
+        font-weight: lighter;
+        font-size: 14px;
+        font-family: Arial, Helvetica, sans-serif;
+     }
+     .git {
+        font-size: 14px;
+     }
+    
+     .get {
+        font-size: 14px;
+        font-weight: lighter;
+     }
+     .cit {
+        font-weight: bold;
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+     }
+     .cat {
+        font-weight: bold;
+        font-size: 12px;
+        font-family: Arial, Helvetica, sans-serif;
+     }
+     .cet {
+        font-weight: lighter;
+        font-size: 12px;
+        font-family: Arial, Helvetica, sans-serif;
+     }
+     .cut {
+        font-weight: lighter;
+        font-size: 12px;
+        font-family: Arial, Helvetica, sans-serif;
+     }
+     .pet {
+        background-color: white;
+        border: 2px;
+        border-style: solid;
+        border-color: grey;
+        border-radius: 10px;
+        width: 100px;
+        height: 30px;
+        font-size: 10px;
+        font-family: Arial, Helvetica, sans-serif;
+     }
+     .pat {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 10px;
+        font-weight: lighter;
+        padding-top: 15px;
+     }
+     .tut {
+        font-weight: lighter;
+        font-size: 12px;
+        font-family: Arial, Helvetica, sans-serif;
+     }
+     }
+
+     @media only screen and ( min-width: 1000px) {
+     
+        .first-logo {
+            width: 10%;
+            padding-top: 10px;
+         }
+         .search {
+             border-style: solid;
+             border-radius: 15px;
+             border-color: blue;
+             width: 800px;
+             height: 40px;
+             padding-top: 5px;
+             margin-top: 10px;
+             display: flex;
+             justify-content: space-between;
+         }
+         
+         .bit {
+             background-color: white;
+             color: black;
+             border-style: none;
+         }
+         
+         .tet {
+             width: 650px;
+             border-style: solid;
+             border-width: 2px;
+             border-radius: 5px;
+             border-color: white;
+             padding-left: 20px;
+             padding-top: 10px;
+             padding-right: 2px;
+             padding-bottom: 2px;
+             font-size: 17px;
+         }
+         .yo {
+            border-style: solid;
+             border-width: 2px;
+             border-radius: 5px;
+             border-color: white;
+             width: 100px;
+             padding-top: 10px;
+             display: flex;
+             justify-content: space-between;
+         }
+         .but {
+             background-color: blue;
+             color: white;
+             font-size: 15px;
+             border: 2px;
+             border-style: solid;
+             border-radius: 5px;
+             border-color: blue;
+             width: 120px;
+             height: 50px;
+         }
+         .pad {
+            border: 2px;
+            border-style: solid;
+            border-color: white;
+            padding-top: 12px;
+            width: 200px;
+            margin-left: 40px;
+        }
+        .abt {
+            font-size: 15px;
+            font-weight: lighter;
+            margin-top: 2px;
+        }
+        
+        .nav-bar {
+            border: 2px;
+            border-style: solid;
+            border-radius: 3px;
+            border-color: white;
+            display: flex;
+            justify-content: space-between;
+            height: 40px;
+        }
+        .ti {
+            padding-top: 10px;
+         }
+         
+         .pic {
+            width: 15%;
+         }
+         
+         .bat {
+            border: 2px;
+            border-style: solid;
+            border-color: grey;
+            border-radius: 10px;
+            font-size: 15px;
+            width: 80px;
+            height: 40px;
+         }
+         .lit {
+            font-size: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+         }
+         .let {
+            font-size: 16px;
+         }
+         
+         .bats {
+            border: 2px;
+            border-style: solid;
+            border-color: grey;
+            border-radius: 10px;
+            font-size: 15px;
+            width: 100px;
+            height: 40px;
+         }
+         .pic {
+            width: 20%;
+           
+         }
+         .bet {
+            border: 2px;
+            border-style: solid;
+            border-color: white;
+            border-radius: 10px;
+            width: 800px;
+            padding-top: 200px;
+            margin-right: 200px;
+            margin-top: 100px;
+         }
+         .rit {
+            margin-right: 200px;
+         }
+         
+         .ron {
+            width: 18%;
+            border-radius: 5px;
+         }
+         
+         .tit {
+            border: 2px;
+            border-style: solid;
+            border-radius: 2px;
+            border-color: white;
+            margin-left: 10px;
+            margin-top: 5px;
+         }
+         .tip {
+            font-weight: lighter;
+            font-size: 14px;
+            font-family: Arial, Helvetica, sans-serif;
+         }
+         .git {
+            font-size: 14px;
+         }
+        
+         .get {
+            font-size: 14px;
+            font-weight: lighter;
+         }
+         .cit {
+            font-weight: bold;
+            font-size: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+         }
+         .cat {
+            font-weight: bold;
+            font-size: 12px;
+            font-family: Arial, Helvetica, sans-serif;
+         }
+         .cet {
+            font-weight: lighter;
+            font-size: 12px;
+            font-family: Arial, Helvetica, sans-serif;
+         }
+         .cut {
+            font-weight: lighter;
+            font-size: 12px;
+            font-family: Arial, Helvetica, sans-serif;
+         }
+         .pet {
+            background-color: white;
+            border: 2px;
+            border-style: solid;
+            border-color: grey;
+            border-radius: 10px;
+            width: 100px;
+            height: 30px;
+            font-size: 10px;
+            font-family: Arial, Helvetica, sans-serif;
+         }
+         .pat {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 10px;
+            font-weight: lighter;
+            padding-top: 15px;
+         }
+         .tut {
+            font-weight: lighter;
+            font-size: 12px;
+            font-family: Arial, Helvetica, sans-serif;
+         }
+
+
+         
+         }
+         
+         
+     }
+     
+    
+     
+    
